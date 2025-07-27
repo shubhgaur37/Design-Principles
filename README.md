@@ -24,5 +24,3 @@ This repository demonstrates key software design principles using Java. Each pri
 
 - **DRY (Don't Repeat Yourself):**  
   Avoid code duplication. See [`src/DRY/`](src/DRY/).
-
-## src Directory Structure
